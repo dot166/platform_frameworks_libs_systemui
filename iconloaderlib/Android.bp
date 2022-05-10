@@ -24,6 +24,7 @@ android_library {
         "androidx.core_core",
         "com_android_launcher3_flags_lib",
         "com_android_systemui_shared_flags_lib",
+        "androidx.palette_palette",
     ],
     resource_dirs: [
         "res",
@@ -42,6 +43,7 @@ android_library {
         "androidx.core_core",
         "com_android_launcher3_flags_lib",
         "com_android_systemui_shared_flags_lib",
+        "androidx.palette_palette",
     ],
     resource_dirs: [
         "res",
